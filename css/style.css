@@ -1,0 +1,39 @@
+div{
+   color: red;
+}
+a{
+   color: purple
+}
+.text{
+   color: black;
+}
+#band{
+   color: green;
+}
+div.musicstyle{
+   color: blue;
+}
+.past.members{
+   color: yellow;
+}
+.history{
+   color: blueviolet;
+}
+.music ul{
+   color: teal;
+}
+.secondalbom .released{
+   color: aqua;
+}
+.thirdalbom *{
+   color: darkorange;
+}
+.music>ul{
+   color: deeppink;
+}
+.firstsingles~li{
+   color: grey;
+}
+.musicvideo+li{
+   color: gold;
+}
